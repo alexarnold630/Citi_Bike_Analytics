@@ -96,3 +96,6 @@ https://public.tableau.com/profile/alex.arnold#!/vizhome/Bike_16148897345070/Cit
 ### Copyright
 
 Alex Arnold © 2021. All Rights Reserved.
+
+### Contact
+Alex Arnold: alexnarnold630@gmail.com
